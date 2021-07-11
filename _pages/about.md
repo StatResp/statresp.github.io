@@ -26,6 +26,8 @@ Our research has been showcased at multiple global smart city summits, won an in
 <b>Updates</b>
 
 <ul>
+     <li> Ayan has received Google AI's Impact Scholar Award for Social Good. He will work to improve healthcare access in Nigeria.</li>
+     <li> Our work on learning incident prediction models from sparse data for emergency response has been accepted to IEEE SmartComp 2021. See the paper <a href="https://arxiv.org/abs/2106.08307">here.</a></li>
      <li> We gave a talk at the AAAI Fall Symposium on AI for Social Good about challenges in designing emergency response pipelines. See the talk here <a href="https://www.youtube.com/watch?v=i2Lggsa8iHM&feature=emb_logo">here</a>.</li>
     <li> Our work on creating <a href="https://arxiv.org/abs/2011.05440">emergency incident detection from crowdsourced waze data using bayesian information fusion</a> has been acepted to the IEEE/WIC/ACM International Joint Conference On Web Intelligence And Intelligent Agent Technology.</li>
     <li> Our work on creating <a href="https://ayanmukhopadhyay.github.io/files/aaai_erm.pdf">designing principled emergency response pipelines</a> has been acepted to the AAAI Fall Symposium Series Workshop in AI for Social Good.</li>
