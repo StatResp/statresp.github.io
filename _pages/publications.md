@@ -77,4 +77,4 @@ Ayan Mukhopadhyay, Chao Zhang, Yevgeniy Vorobeychik, Milind Tambe, Kenneth Pence
 <br>
 <b>[Incident management and analysis dashboard for fire departments](https://scope-lab.org/files/Pettet2019.pdf)</b><br>
 G. Pettet, A. Mukhopadhyay, C. Samal, A. Dubey, and Y. Vorobeychik.
-<i> 10th ACM/IEEE International Conference on Cyber-Physical Systems</i><b>ICCPS 2019</b>.
+<i> 10th ACM/IEEE International Conference on Cyber-Physical Systems</i> <b>ICCPS 2019</b>.
