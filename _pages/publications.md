@@ -7,6 +7,10 @@ author_profile: true
 <b><u>Peer-reviewed Conferences</u></b>
 <br>
 
+<b>[Learning Incident Prediction Models Over LargeGeographical Areas for Emergency Response Systems](https://ayanmukhopadhyay.github.io/files/ecml21.pdf)</b> <br>
+Sayyed Vazirizade, Ayan Mukhopadhyay, Geoffrey Pettet, Said El Said, Hiba Baroud, and Abhishek Dubey.
+<i>IEEE Conference on Smart Computing</i>. <b>SmartComp 2021</b>.
+
 <b>[Emergency Incident Detection from Crowdsourced Waze Data using Bayesian Information Fusion](https://arxiv.org/abs/2011.05440)</b><br> 
 Yasas Senarath, Saideep Nannapaneni, Hemant Purohit, and Abhishek Dubey.
 <i>EEE/WIC/ACM International Joint Conference On Web Intelligence And Intelligent Agent Technology</i>. <b>WI-IAT 2020</b>.
