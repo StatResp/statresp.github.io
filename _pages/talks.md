@@ -4,7 +4,9 @@ permalink: /talks/
 author_profile: true
 ---
 
-1. We gave a talk on [Hierarchical Planning for Resource Allocation in Emergency Response Systems](https://youtu.be/-9tWAdXiS14) at the [12th ACM/IEEE International Conference on Cyber-Physical Systems, 2021](http://iccps.acm.org/2021/). See the full paper [here](https://arxiv.org/abs/2012.13300).
+1. We gave a talk on [Learning Incident Prediction Models Over Large Geographical Areas for Emergency Response](https://youtu.be/f5nsTsgbGvY) at the [7th International Conference on Smart Computing](https://www.smart-comp.info/). See the full paper [here](https://arxiv.org/abs/2106.08307).
+
+2. We gave a talk on [Hierarchical Planning for Resource Allocation in Emergency Response Systems](https://youtu.be/-9tWAdXiS14) at the [12th ACM/IEEE International Conference on Cyber-Physical Systems, 2021](http://iccps.acm.org/2021/). See the full paper [here](https://arxiv.org/abs/2012.13300).
 
 3. We gave a talk at the Los Alamos National Laboratory Seminar Series on "Multi-Agent Systems for Emergency Response." See [slides](https://ayanmukhopadhyay.github.io/files/talks/MultiAgentEmergency.pdf) here.
 
