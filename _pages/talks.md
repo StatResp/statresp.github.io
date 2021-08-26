@@ -4,7 +4,9 @@ permalink: /talks/
 author_profile: true
 ---
 
-1. We gave a talk at the Los Alamos National Laboratory Seminar Series on "Multi-Agent Systems for Emergency Response." See [slides](https://ayanmukhopadhyay.github.io/files/talks/MultiAgentEmergency.pdf) here.
+1. We gave a talk on [Hierarchical Planning for Resource Allocation in Emergency Response Systems](https://youtu.be/-9tWAdXiS14) at the [12th ACM/IEEE International Conference on Cyber-Physical Systems, 2021](http://iccps.acm.org/2021/). See the full paper [here](https://arxiv.org/abs/2012.13300).
+
+3. We gave a talk at the Los Alamos National Laboratory Seminar Series on "Multi-Agent Systems for Emergency Response." See [slides](https://ayanmukhopadhyay.github.io/files/talks/MultiAgentEmergency.pdf) here.
 
 2. We gave a [talk](https://www.youtube.com/watch?v=i2Lggsa8iHM&feature=emb_logo) at the AAAI Fall Symposium on AI for Social Good about challenges in designing emergency response pipelines.
 
