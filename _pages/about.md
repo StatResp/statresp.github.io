@@ -26,6 +26,7 @@ Our research has been showcased at multiple global smart city summits, won an in
 <b>Updates</b>
 
 <ul>
+     <li> Ayan and Sayyed gave a <a href="http://scopelab.ai/files/tutorial.pdf">tutorial on multi-agent emergency response systems</a> at the <a href="https://www.smart-comp.info/tutorials.html">SmartComp 2021 Conference</a>.  The videos of the talk are available <a href="https://youtube.com/playlist?list=PLZ5EcK0kbWDzuxsqNRUGmcGYP4_7GnGAI">on youtube</a>.</li>
      <li> Ayan has received Google AI's Impact Scholar Award for Social Good. He will work to improve healthcare access in Nigeria.</li>
      <li> A preprint of our work on improving transmission grid resilience in response to wildfire is now available on Arxiv. See the paper <a href="https://arxiv.org/pdf/2107.05756.pdf">here.</a></li>
      <li> Our work on learning incident prediction models from sparse data for emergency response has been accepted to IEEE SmartComp 2021. See the paper <a href="https://arxiv.org/abs/2106.08307">here.</a></li>
